@@ -7,7 +7,9 @@ The following hardware components are used to build the **Auto-Aiming Trash Can*
 ### Core Computing
 
 - **Raspberry Pi 5 Kit**
-    
+    <p align="center">
+  <img src="Assets/Images/Raspberry%20Pi%205%20Kit.png" width="500">
+</p>
     Includes the Raspberry Pi board, memory card, charger, and cooling fan.
     
     Serves as the **main controller** and runs the computer vision and trajectory prediction algorithms.
