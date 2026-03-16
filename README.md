@@ -56,7 +56,9 @@ Maintains an optimal temperature for the Raspberry Pi during computation-heavy t
 ### AI Acceleration
 
 - **Raspberry Pi AI Kit**
-    
+<p align="center">
+  <img src="Assets/Images/Raspberry%20Pi%20AI%20Kit.png" width="500">
+</p>
     Provides hardware acceleration to improve the performance of machine learning models used for object detection and trajectory prediction.
     
 
