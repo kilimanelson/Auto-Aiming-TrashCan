@@ -34,8 +34,10 @@ Helps the system measure distance and detect obstacles, allowing the trash can t
 ### Motion System
 
 - **M3H256 Triple Motor Controller (Pololu)**
-    
-    Controls the motors that move the robot platform. This controller was selected because it provides the required three-channel output to independently manage each of the three **DC motors** on the robot's chassis.
+    <p align="center">
+  <img src="Assets/Images/M3H256%20Triple%20Motor%20Controller%20%28Pololu%29.png" width="500">
+</p>
+Controls the motors that move the robot platform. This controller was selected because it provides the required three-channel output to independently manage each of the three **DC motors** on the robot's chassis.
     
 - **Omni Wheels (Robot Chassis)**
     
