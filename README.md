@@ -24,8 +24,10 @@ Serves as the **main controller** and runs the computer vision and trajectory pr
 Used for **computer vision** to detect and track the trash while it is in the air.
     
 - **LiDAR Scanner**
-    
-    Helps the system **measure distance and detect obstacles**, allowing the trash can to navigate safely and position itself correctly.
+   <p align="center">
+  <img src="Assets/Images/LiDAR%20Scanner.png" width="500">
+</p> 
+Helps the system **measure distance and detect obstacles**, allowing the trash can to navigate safely and position itself correctly.
     
 
 ### Motion System
