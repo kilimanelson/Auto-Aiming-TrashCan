@@ -1,1 +1,8 @@
+# Ignore macOS system files
+.DS_Store
 
+# Ignore common build/IDE folders
+.vscode/
+.idea/
+build/
+bin/
