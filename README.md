@@ -22,6 +22,7 @@ Serves as the **main controller** and runs the computer vision and trajectory pr
   <img src="Assets/Images/Raspberry%20Pi%20Camera%20Module%203.png" width="500">
 </p>
 Used for computer vision to detect and track the trash while it is in the air.
+
     
 - **LiDAR Scanner**
    <p align="center">
