@@ -12,7 +12,7 @@ The following hardware components are used to build the **Auto-Aiming Trash Can*
 </p>
     Includes the Raspberry Pi board, memory card, charger, and cooling fan.
     
-    Serves as the **main controller** and runs the computer vision and trajectory prediction algorithms.
+Serves as the **main controller** and runs the computer vision and trajectory prediction algorithms.
     
 
 ### Perception System
