@@ -47,8 +47,10 @@ Used as the primary locomotion method because they allow the platform to **move 
 ### Cooling
 
 - **Raspberry Pi Cooler**
-    
-    Maintains an optimal temperature for the Raspberry Pi during computation-heavy tasks, such as real-time vision processing.
+   <p align="center">
+  <img src="Assets/Images/Raspberry%20Pi%20Cooler.png" width="500">
+</p> 
+Maintains an optimal temperature for the Raspberry Pi during computation-heavy tasks, such as real-time vision processing.
     
 
 ### AI Acceleration
