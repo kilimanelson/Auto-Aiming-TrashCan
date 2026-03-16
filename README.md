@@ -41,7 +41,7 @@ Controls the motors that move the robot platform. This controller was selected b
     
 - **Omni Wheels (Robot Chassis)**
     
-    Used as the primary locomotion method because they allow the platform to **move smoothly in multiple directions**, improving positioning speed and accuracy.
+Used as the primary locomotion method because they allow the platform to **move smoothly in multiple directions**, improving positioning speed and accuracy.
     
 
 ### Cooling
@@ -61,5 +61,7 @@ Controls the motors that move the robot platform. This controller was selected b
 ### Mechanical Structure
 
 - **Robot Chassis**
-    
-    Purchasing a pre-built chassis for the robot platform is recommended because it simplifies assembly and improves stability.
+   <p align="center">
+  <img src="Assets/Images/Professional%203WD%20Smart%20Robot%20Car%20Chassis%20Kit%20with%2058mm%20Nylon%20Omni%20Wheel%20%26%20DC%20Encoder%20Motors%20for%20Arduino%20Raspberry%20Pie%20Microbit%2C%202-Layer%20Metal%20Triangle%20Panel%20Robotic%20Platform%20DIY%20Heavy%20Load%20Model.png" width="500">
+</p> 
+Purchasing a pre-built chassis for the robot platform is recommended because it simplifies assembly and improves stability.
